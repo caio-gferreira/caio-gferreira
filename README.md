@@ -1,4 +1,9 @@
-### Hi there 👋
+## Caio Gabriel Ferreira
+ <div>
+  <a href="https://github.com/caio-gferreira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio-gferreira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-gferreira&layout=compact&langs_count=7&theme=algolia"/>
+</div>
 
 <!--
 **caio-gferreira/caio-gferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
