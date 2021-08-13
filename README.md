@@ -1,4 +1,4 @@
-## Caio Gabriel Ferreira
+## Caio Gabriel Ferreira! 👋
  <div>
   <a href="https://github.com/caio-gferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio-gferreira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -17,7 +17,7 @@
   ##
  
 <div> 
-  <a href = "mailto:caiogfferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:caiogfferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-gferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <!--![Snake animation](https://github.com/caio-gferreira/blob/output/github-contribution-grid-snake.svg)-->
